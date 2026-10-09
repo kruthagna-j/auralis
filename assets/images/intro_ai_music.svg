@@ -1,0 +1,43 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="95" fill="#EEF2FF" opacity="0.5"/>
+  
+  <!-- AI Brain Circuit -->
+  <path d="M80 60C80 60 70 65 70 75C70 85 80 90 80 90" stroke="#6366F1" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <path d="M120 60C120 60 130 65 130 75C130 85 120 90 120 90" stroke="#6366F1" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <circle cx="70" cy="75" r="4" fill="#6366F1"/>
+  <circle cx="130" cy="75" r="4" fill="#6366F1"/>
+  <circle cx="80" cy="60" r="4" fill="#6366F1"/>
+  <circle cx="80" cy="90" r="4" fill="#6366F1"/>
+  <circle cx="120" cy="60" r="4" fill="#6366F1"/>
+  <circle cx="120" cy="90" r="4" fill="#6366F1"/>
+  
+  <!-- Music Note 1 -->
+  <ellipse cx="85" cy="130" rx="12" ry="8" fill="#6366F1"/>
+  <rect x="96" y="80" width="5" height="50" rx="2.5" fill="#6366F1"/>
+  <circle cx="98.5" cy="77" r="8" fill="#8B5CF6"/>
+  
+  <!-- Music Note 2 -->
+  <ellipse cx="115" cy="140" rx="12" ry="8" fill="#6366F1"/>
+  <rect x="126" y="90" width="5" height="50" rx="2.5" fill="#6366F1"/>
+  <circle cx="128.5" cy="87" r="8" fill="#8B5CF6"/>
+  
+  <!-- Connected Note -->
+  <path d="M96 85 L131 92" stroke="#6366F1" stroke-width="5" stroke-linecap="round"/>
+  
+  <!-- Sound Waves -->
+  <path d="M45 95C45 95 50 85 50 100C50 115 45 105 45 105" stroke="#A5B4FC" stroke-width="2.5" stroke-linecap="round" fill="none" opacity="0.7"/>
+  <path d="M35 90C35 90 40 75 40 100C40 125 35 110 35 110" stroke="#A5B4FC" stroke-width="2.5" stroke-linecap="round" fill="none" opacity="0.5"/>
+  
+  <path d="M155 95C155 95 150 85 150 100C150 115 155 105 155 105" stroke="#A5B4FC" stroke-width="2.5" stroke-linecap="round" fill="none" opacity="0.7"/>
+  <path d="M165 90C165 90 160 75 160 100C160 125 165 110 165 110" stroke="#A5B4FC" stroke-width="2.5" stroke-linecap="round" fill="none" opacity="0.5"/>
+  
+  <!-- AI Sparkles -->
+  <path d="M60 45L62 50L67 52L62 54L60 59L58 54L53 52L58 50Z" fill="#8B5CF6"/>
+  <path d="M140 140L142 145L147 147L142 149L140 154L138 149L133 147L138 145Z" fill="#8B5CF6"/>
+  <path d="M145 50L147 55L152 57L147 59L145 64L143 59L138 57L143 55Z" fill="#A5B4FC"/>
+  
+  <!-- Pulse Lines (AI Processing) -->
+  <path d="M55 120 L60 120 L65 110 L70 130 L75 120 L80 120" stroke="#6366F1" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.6"/>
+  <path d="M120 155 L125 155 L130 145 L135 165 L140 155 L145 155" stroke="#6366F1" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.6"/>
+</svg>

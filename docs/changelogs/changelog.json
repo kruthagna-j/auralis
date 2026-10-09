@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-04-15",
+      "channel": "stable",
+      "file": "v1.0.0.md"
+    },
+    {
+      "version": "0.0.1",
+      "date": "2026-03-02",
+      "channel": "stable",
+      "file": "v0.0.1.md"
+    }
+  ]
+}

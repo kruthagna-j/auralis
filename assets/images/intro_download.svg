@@ -1,0 +1,75 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="95" fill="#FEF3C7" opacity="0.5"/>
+  
+  <!-- Cloud Storage -->
+  <path d="M140 75C140 75 145 75 150 80C155 85 155 95 150 100L60 100C55 100 50 95 50 90C50 85 55 80 60 80C60 80 60 65 75 60C90 55 100 60 105 70C105 70 110 65 120 65C130 65 138 70 140 75Z" fill="#F59E0B" opacity="0.7"/>
+  <path d="M140 75C140 75 145 75 150 80C155 85 155 95 150 100L60 100C55 100 50 95 50 90C50 85 55 80 60 80C60 80 60 65 75 60C90 55 100 60 105 70C105 70 110 65 120 65C130 65 138 70 140 75Z" stroke="#F59E0B" stroke-width="2" fill="none"/>
+  
+  <!-- Download Arrow Container -->
+  <rect x="80" y="95" width="40" height="55" rx="5" fill="#FCD34D"/>
+  <rect x="80" y="95" width="40" height="55" rx="5" stroke="#F59E0B" stroke-width="2" fill="none"/>
+  
+  <!-- Download Arrow -->
+  <path d="M100 105 L100 135" stroke="#F59E0B" stroke-width="4" stroke-linecap="round"/>
+  <path d="M90 125 L100 135 L110 125" stroke="#F59E0B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  
+  <!-- Download Base Line -->
+  <path d="M85 142 L115 142" stroke="#F59E0B" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Musical Notes Downloading -->
+  <!-- Note 1 -->
+  <g opacity="0.8">
+    <ellipse cx="65" cy="125" rx="8" ry="5" fill="#F59E0B"/>
+    <rect x="72" y="95" width="3" height="30" rx="1.5" fill="#F59E0B"/>
+    <circle cx="73.5" cy="93" r="5" fill="#FBBF24"/>
+    <!-- Motion lines -->
+    <path d="M60 115 L60 110" stroke="#FBBF24" stroke-width="2" stroke-linecap="round" opacity="0.5"/>
+    <path d="M55 120 L55 115" stroke="#FBBF24" stroke-width="2" stroke-linecap="round" opacity="0.5"/>
+  </g>
+  
+  <!-- Note 2 -->
+  <g opacity="0.6">
+    <ellipse cx="135" cy="115" rx="8" ry="5" fill="#F59E0B"/>
+    <rect x="142" y="85" width="3" height="30" rx="1.5" fill="#F59E0B"/>
+    <circle cx="143.5" cy="83" r="5" fill="#FBBF24"/>
+    <!-- Motion lines -->
+    <path d="M140 105 L140 100" stroke="#FBBF24" stroke-width="2" stroke-linecap="round" opacity="0.5"/>
+    <path d="M145 110 L145 105" stroke="#FBBF24" stroke-width="2" stroke-linecap="round" opacity="0.5"/>
+  </g>
+  
+  <!-- Storage Device/Phone -->
+  <rect x="70" y="155" width="60" height="35" rx="4" fill="#FFFFFF" stroke="#F59E0B" stroke-width="2.5"/>
+  <rect x="75" y="160" width="50" height="20" rx="2" fill="#FEF3C7"/>
+  
+  <!-- Storage Bars -->
+  <rect x="80" y="164" width="8" height="12" rx="1" fill="#F59E0B"/>
+  <rect x="90" y="167" width="8" height="9" rx="1" fill="#FBBF24"/>
+  <rect x="100" y="169" width="8" height="7" rx="1" fill="#FCD34D"/>
+  <rect x="110" y="171" width="8" height="5" rx="1" fill="#FDE68A"/>
+  
+  <!-- Speaker dots -->
+  <circle cx="85" cy="185" r="1.5" fill="#F59E0B"/>
+  <circle cx="92" cy="185" r="1.5" fill="#F59E0B"/>
+  <circle cx="99" cy="185" r="1.5" fill="#F59E0B"/>
+  <circle cx="106" cy="185" r="1.5" fill="#F59E0B"/>
+  <circle cx="113" cy="185" r="1.5" fill="#F59E0B"/>
+  
+  <!-- Progress Indicator -->
+  <rect x="78" y="150" width="44" height="2" rx="1" fill="#FCD34D"/>
+  <rect x="78" y="150" width="29" height="2" rx="1" fill="#F59E0B"/>
+  
+  <!-- Sparkles -->
+  <path d="M45 130L47 135L52 137L47 139L45 144L43 139L38 137L43 135Z" fill="#FBBF24"/>
+  <path d="M155 140L157 145L162 147L157 149L155 154L153 149L148 147L153 145Z" fill="#FBBF24"/>
+  <path d="M35 75L37 80L42 82L37 84L35 89L33 84L28 82L33 80Z" fill="#FCD34D"/>
+  <path d="M165 80L167 85L172 87L167 89L165 94L163 89L158 87L163 85Z" fill="#FCD34D"/>
+  
+  <!-- Download Progress Circles -->
+  <circle cx="130" cy="130" r="3" fill="#F59E0B" opacity="0.7">
+    <animate attributeName="opacity" values="0.7;0.3;0.7" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="70" cy="140" r="3" fill="#F59E0B" opacity="0.5">
+    <animate attributeName="opacity" values="0.5;0.3;0.5" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
